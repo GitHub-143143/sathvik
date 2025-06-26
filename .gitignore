@@ -1,0 +1,22 @@
+# Large or binary files
+*.mp4
+*.mov
+*.zip
+*.rar
+*.7z
+*.exe
+
+# Temporary & build files
+*.log
+__pycache__/
+*.pyc
+*.class
+/dist
+/build
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
+.env
